@@ -56,7 +56,7 @@ The goal of this project is to help students use digital tools effectively, comm
 - Google Form Quiz: https://docs.google.com/forms/d/e/1FAIpQLSeR0jGA3Y77Lu20LavROpLarCROvj7-SH2adH0AXwpZ1iE-JA/viewform?usp=header  
 - GitHub Profile:https://github.com/Jayesh-Sule 
 - LinkedIn Profile: www.linkedin.com/in/jayesh-sule-77536a3a5  
-- Kaggle Profile:https://www.kaggle.com/jayeshsule
+- Kaggle Profile: https://www.kaggle.com/jayeshsule
 
 ---
 
